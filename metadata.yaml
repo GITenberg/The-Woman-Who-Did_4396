@@ -1,0 +1,40 @@
+_repo: The-Woman-Who-Did_4396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+description: "The Woman Who Did (1895) is a novel by Grant Allen about a young, self-assured\
+  \ middle-class woman who defies convention as a matter of principle and who is fully\
+  \ prepared to suffer the consequences of her actions. It was first published in\
+  \ London by John Lane in a series intended to promote the ideal of the \"New Woman\"\
+  . It was adapted into a British silent film in 1915, The Woman Who Did, which was\
+  \ directed by Walter West, and later into a 1925 German film, Die Frau mit dem schlechten\
+  \ Ruf.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4396'
+  wikidata: Q7775505
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Feminists -- Fiction'
+- GITenberg
+title: The Woman Who Did
+url: http://www.gutenberg.org/ebooks/4396
+wikipedia:
+- https://sh.wikipedia.org/wiki/The_Woman_Who_Did
+- https://en.wikipedia.org/wiki/The_Woman_Who_Did
