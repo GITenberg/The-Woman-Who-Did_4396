@@ -1,5 +1,8 @@
 _repo: The-Woman-Who-Did_4396
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, Grant
@@ -16,6 +19,8 @@ description: "The Woman Who Did (1895) is a novel by Grant Allen about a young, 
   . It was adapted into a British silent film in 1915, The Woman Who Did, which was\
   \ directed by Walter West, and later into a 1925 German film, Die Frau mit dem schlechten\
   \ Ruf.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4396#The-Woman-Who-Did
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
